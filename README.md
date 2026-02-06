@@ -8,22 +8,71 @@ En la Universidad Nacional de Lomas de Zamora, nuestra Facultad de Ingeniería s
 El objetivo de este proyecto es [descripción breve del objetivo del proyecto, lo que se busca lograr y/o los problemas que se están resolviendo].
 
 Índice
+- Brief
+- Descripción
+- Instrucciones de Uso
+- Tecnologías Utilizadas
+- Listado de Componentes
+- Esquemáticos
+- Fotos / Videos
+- Autor
 
-Descripción
+## Brief
 
-Instrucciones de Uso
+**One-liner:** [Una frase corta: qué hace el proyecto + para quién + beneficio principal].
 
-Tecnologías Utilizadas
+**Elevator pitch (30s):**  
+Este proyecto [nombre del proyecto] resuelve [problema] mediante [solución]. Está orientado a [público objetivo] y permite [beneficio medible: ahorrar tiempo/costos, mejorar precisión, automatizar, etc.]. Se implementa con [tecnologías clave] y se valida con [cómo se prueba/qué demuestra].
 
-Listado de Componentes
+### Problema
+- **Contexto:** [dónde aparece el problema: laboratorio, industria, hogar, aula, etc.]
+- **Dolor principal:** [qué falla / qué es lento / qué es costoso / qué es riesgoso]
+- **Impacto:** [consecuencia: costos, tiempos, errores, seguridad, calidad]
 
-Esquemáticos
+### Solución propuesta
+- **Qué hace:** [funcionalidades principales en 3–5 bullets]
+- **Cómo lo hace (alto nivel):** [arquitectura simple: sensor→control→actuador→visualización, etc.]
+- **Valor diferencial:** [qué lo hace distinto/mejor que alternativas]
 
-Fotos / Videos
+### Público objetivo
+- [Ej: docentes/alumnos de mecatrónica]
+- [Ej: pymes industriales / mantenimiento / automatización]
+- [Ej: usuarios finales / hobbyistas]
 
-Autor
+### Alcance
+**Incluye:**
+- [X]
+- [Y]
+- [Z]
 
-Descripción
+**No incluye (por ahora):**
+- [A]
+- [B]
+
+### Estado del proyecto
+- **Nivel de madurez:** [Prototipo / MVP / Validado / En producción]
+- **Qué está funcionando hoy:** [lista corta]
+- **Próximos pasos:** [lista corta]
+
+### Demo rápida
+- **Video / GIF:** [link]
+- **Cómo correrlo en 2 minutos:**  
+  1) [Paso 1]  
+  2) [Paso 2]  
+  3) [Paso 3]  
+
+### Entregables
+- Código fuente: `CODIGO/`
+- Planos / esquemas: `PLANOS/`
+- Datasheets: `DATASHEET/`
+- Documentación e informes: `INFORMES/`
+- Multimedia (fotos/videos): `MULTIMEDIA/`
+
+### Métricas de éxito (opcional)
+- [Ej: reduce tiempo de operación de X a Y]
+- [Ej: precisión ≥ X%]
+- [Ej: disponibilidad ≥ X%]
+
 
 Este proyecto se basa en [explicación detallada del proyecto, su propósito, y los objetivos específicos]. A continuación, se explica cómo se aborda el problema o tema desde una perspectiva técnica y cómo los diferentes componentes interactúan para lograr el funcionamiento del sistema.
 
